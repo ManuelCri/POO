@@ -1,14 +1,17 @@
 # POO
 talleres de programación orientada a objetos
 
-para poder ejecutar un hola mundo en python en el vs code
+talleres de programación orientada a objetos.
 
-tiene descargar python desde su pagina inicial con su respectivas variables de entorno
+para poder ejecutar un hola mundo en Python en el vs code.
 
-luego ejecutar abrir el vs code 
+tiene descargar Python desde su página con sus respectivas variables de entorno.
 
-abrir el terminal para hacer un git clone desde mi repertorio
+luego abrir el vs code para usar una terminal.
 
-una vez logrado hacer el git clone ejecutar el archivo holamundo.py
+abrir el terminal para hacer un git clone desde mi repertorio.
 
-para que se pueda realizar el hola mundo
+una vez logrado hacer el git clone ejecutar el archivo holamundo.py.
+
+para que se pueda realizar el hola mundo.
+
